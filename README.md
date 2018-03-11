@@ -13,4 +13,4 @@ We consider graphs of N vertices of given degree distribution p_1 = 1 - pi and p
 
 Each sections are dealt with seperatly with a Jupyter Notebook.
 
-Everythin can be found in the github repository : https://github.com/MalloryDazza/Project_Graphs_Network 
+Everything can be found in the github repository : https://github.com/MalloryDazza/Project_Graphs_Network 
